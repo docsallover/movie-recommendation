@@ -38,3 +38,16 @@ The system requires the following dependencies:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+## Visit and Follow
+For more details and tutorials, visit the website: [DocsAllOver](https://docsallover.com/).
+
+Follow us on:
+- [Facebook](https://www.facebook.com/docsallover)
+- [Instagram](https://www.instagram.com/docsallover.tech/)
+- [LinkedIn](https://www.linkedin.com/company/docsallover/)
+- [YouTube](https://www.youtube.com/@docsallover)
+- [Threads.net](https://threads.net/docsallover.tech)
+
+and visit our website to know more about our tutorials and blogs.
